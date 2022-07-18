@@ -69,3 +69,7 @@ ul li:hover {
     margin-left: auto;
     font-size: 15px;
 }
+
+section {
+    padding-top: 40px;
+}
